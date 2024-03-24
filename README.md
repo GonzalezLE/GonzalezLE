@@ -1,16 +1,24 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**GonzalezLE/GonzalezLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy Luis Enrique Gonzalez Arellano, ingeniero en software.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me apasiona aprender cosas nuevas. Mi principal tecnología de interés es Python, aunque estoy abierto a aprender nuevas tecnologías de código abierto.
+
+## Tecnologías y Herramientas
+- Python (FastAPI)
+- JavaScript (React.js, Angular)
+- PHP (CodeIgniter 3, CodeIgniter 4)
+- Docker 
+- Bases de datos (MongoDB, SQL Server, MySQL)
+
+## Estadísticas de GitHub
+
+[![Estadísticas de GitHub](https://img.shields.io/github/followers/GonzalezLE?style=social)](https://github.com/GonzalezLE)
+
+## Contacto
+
+- ✉️ Correo electrónico: gonzalez-3216@hotmail.com
+
+- 🔗 LinkedIn: [Luis Enrique Gonzalez Arellano](https://www.linkedin.com/in/luis-gonzalez-arellano/)
